@@ -1,0 +1,61 @@
+{
+  "name": "dyscalculia-embed",
+  "version": "0.1.0",
+  "description": "Free number practice games for any website: a <dyscalculia-game> web component and a React wrapper. Count the dots, which is bigger, which group has more, place the number and remember the digits, in English, German, Spanish, French, Dutch and Brazilian Portuguese. Practice, not a test. No tracking in the frame.",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./react": {
+      "types": "./src/react.d.ts",
+      "default": "./src/react.js"
+    },
+    "./catalog.json": "./catalog.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "catalog.json",
+    "CATALOG.md",
+    "src"
+  ],
+  "scripts": {
+    "build": "node scripts/build-catalog.mjs",
+    "test": "node scripts/test.mjs"
+  },
+  "sideEffects": [
+    "./src/index.js"
+  ],
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  },
+  "homepage": "https://dyscalculia.io/embed",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dyscalculia-io/dyscalculia-embed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dyscalculia-io/dyscalculia-embed/issues"
+  },
+  "keywords": [
+    "dyscalculia",
+    "numeracy",
+    "number-games",
+    "subitizing",
+    "number-line",
+    "education",
+    "web-component",
+    "embed",
+    "iframe",
+    "teachers"
+  ],
+  "license": "MIT"
+}
