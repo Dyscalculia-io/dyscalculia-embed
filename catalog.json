@@ -44,17 +44,17 @@
   {
    "id": "compact",
    "width": 360,
-   "height": 560
+   "height": 605
   },
   {
    "id": "standard",
    "width": 480,
-   "height": 560
+   "height": 578
   },
   {
    "id": "wide",
    "width": 720,
-   "height": 560
+   "height": 538
   }
  ],
  "games": [
@@ -93,7 +93,7 @@
    "script": "<div data-dysc-game=\"dots\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"dots\" lang=\"en\"></dyscalculia-game>",
    "react": "<Game game=\"dots\" lang=\"en\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/dots\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/dots\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"578\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Free number games by <a href=\"https://dyscalculia.io\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -104,7 +104,7 @@
    "script": "<div data-dysc-game=\"symbolic\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"symbolic\" lang=\"en\"></dyscalculia-game>",
    "react": "<Game game=\"symbolic\" lang=\"en\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/symbolic\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/symbolic\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Free number games by <a href=\"https://dyscalculia.io\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -115,7 +115,7 @@
    "script": "<div data-dysc-game=\"compare\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"compare\" lang=\"en\"></dyscalculia-game>",
    "react": "<Game game=\"compare\" lang=\"en\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/compare\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/compare\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Free number games by <a href=\"https://dyscalculia.io\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -126,7 +126,7 @@
    "script": "<div data-dysc-game=\"numberline\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"numberline\" lang=\"en\"></dyscalculia-game>",
    "react": "<Game game=\"numberline\" lang=\"en\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/numberline\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/numberline\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"488\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Free number games by <a href=\"https://dyscalculia.io\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -137,7 +137,7 @@
    "script": "<div data-dysc-game=\"digitspan\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"digitspan\" lang=\"en\"></dyscalculia-game>",
    "react": "<Game game=\"digitspan\" lang=\"en\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/digitspan\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/en/digitspan\" title=\"Number game by Dyscalculia.io\" width=\"480\" height=\"565\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Free number games by <a href=\"https://dyscalculia.io\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -148,7 +148,7 @@
    "script": "<div data-dysc-game=\"dots\" data-lang=\"de\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"dots\" lang=\"de\"></dyscalculia-game>",
    "react": "<Game game=\"dots\" lang=\"de\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/dots\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/dots\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"578\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Kostenlose Zahlenspiele von <a href=\"https://dyscalculia.io/de\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -159,7 +159,7 @@
    "script": "<div data-dysc-game=\"symbolic\" data-lang=\"de\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"symbolic\" lang=\"de\"></dyscalculia-game>",
    "react": "<Game game=\"symbolic\" lang=\"de\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/symbolic\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/symbolic\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Kostenlose Zahlenspiele von <a href=\"https://dyscalculia.io/de\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -170,7 +170,7 @@
    "script": "<div data-dysc-game=\"compare\" data-lang=\"de\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"compare\" lang=\"de\"></dyscalculia-game>",
    "react": "<Game game=\"compare\" lang=\"de\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/compare\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/compare\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Kostenlose Zahlenspiele von <a href=\"https://dyscalculia.io/de\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -181,7 +181,7 @@
    "script": "<div data-dysc-game=\"numberline\" data-lang=\"de\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"numberline\" lang=\"de\"></dyscalculia-game>",
    "react": "<Game game=\"numberline\" lang=\"de\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/numberline\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/numberline\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"488\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Kostenlose Zahlenspiele von <a href=\"https://dyscalculia.io/de\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -192,7 +192,7 @@
    "script": "<div data-dysc-game=\"digitspan\" data-lang=\"de\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"digitspan\" lang=\"de\"></dyscalculia-game>",
    "react": "<Game game=\"digitspan\" lang=\"de\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/digitspan\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/de/digitspan\" title=\"Zahlenspiel von Dyscalculia.io\" width=\"480\" height=\"565\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Kostenlose Zahlenspiele von <a href=\"https://dyscalculia.io/de\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -203,7 +203,7 @@
    "script": "<div data-dysc-game=\"dots\" data-lang=\"fr\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"dots\" lang=\"fr\"></dyscalculia-game>",
    "react": "<Game game=\"dots\" lang=\"fr\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/dots\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/dots\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"578\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jeux de nombres gratuits de <a href=\"https://dyscalculia.io/fr\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -214,7 +214,7 @@
    "script": "<div data-dysc-game=\"symbolic\" data-lang=\"fr\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"symbolic\" lang=\"fr\"></dyscalculia-game>",
    "react": "<Game game=\"symbolic\" lang=\"fr\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/symbolic\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/symbolic\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jeux de nombres gratuits de <a href=\"https://dyscalculia.io/fr\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -225,7 +225,7 @@
    "script": "<div data-dysc-game=\"compare\" data-lang=\"fr\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"compare\" lang=\"fr\"></dyscalculia-game>",
    "react": "<Game game=\"compare\" lang=\"fr\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/compare\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/compare\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jeux de nombres gratuits de <a href=\"https://dyscalculia.io/fr\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -236,7 +236,7 @@
    "script": "<div data-dysc-game=\"numberline\" data-lang=\"fr\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"numberline\" lang=\"fr\"></dyscalculia-game>",
    "react": "<Game game=\"numberline\" lang=\"fr\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/numberline\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/numberline\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"488\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jeux de nombres gratuits de <a href=\"https://dyscalculia.io/fr\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -247,7 +247,7 @@
    "script": "<div data-dysc-game=\"digitspan\" data-lang=\"fr\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"digitspan\" lang=\"fr\"></dyscalculia-game>",
    "react": "<Game game=\"digitspan\" lang=\"fr\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/digitspan\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/fr/digitspan\" title=\"Jeu de nombres de Dyscalculia.io\" width=\"480\" height=\"565\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jeux de nombres gratuits de <a href=\"https://dyscalculia.io/fr\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -258,7 +258,7 @@
    "script": "<div data-dysc-game=\"dots\" data-lang=\"es\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"dots\" lang=\"es\"></dyscalculia-game>",
    "react": "<Game game=\"dots\" lang=\"es\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/dots\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/dots\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"578\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Juegos de números gratis de <a href=\"https://dyscalculia.io/es\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -269,7 +269,7 @@
    "script": "<div data-dysc-game=\"symbolic\" data-lang=\"es\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"symbolic\" lang=\"es\"></dyscalculia-game>",
    "react": "<Game game=\"symbolic\" lang=\"es\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/symbolic\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/symbolic\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Juegos de números gratis de <a href=\"https://dyscalculia.io/es\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -280,7 +280,7 @@
    "script": "<div data-dysc-game=\"compare\" data-lang=\"es\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"compare\" lang=\"es\"></dyscalculia-game>",
    "react": "<Game game=\"compare\" lang=\"es\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/compare\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/compare\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Juegos de números gratis de <a href=\"https://dyscalculia.io/es\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -291,7 +291,7 @@
    "script": "<div data-dysc-game=\"numberline\" data-lang=\"es\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"numberline\" lang=\"es\"></dyscalculia-game>",
    "react": "<Game game=\"numberline\" lang=\"es\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/numberline\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/numberline\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"488\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Juegos de números gratis de <a href=\"https://dyscalculia.io/es\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -302,7 +302,7 @@
    "script": "<div data-dysc-game=\"digitspan\" data-lang=\"es\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"digitspan\" lang=\"es\"></dyscalculia-game>",
    "react": "<Game game=\"digitspan\" lang=\"es\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/digitspan\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/es/digitspan\" title=\"Juego de números de Dyscalculia.io\" width=\"480\" height=\"565\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Juegos de números gratis de <a href=\"https://dyscalculia.io/es\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -313,7 +313,7 @@
    "script": "<div data-dysc-game=\"dots\" data-lang=\"nl\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"dots\" lang=\"nl\"></dyscalculia-game>",
    "react": "<Game game=\"dots\" lang=\"nl\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/dots\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/dots\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"578\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Gratis getallenspelletjes van <a href=\"https://dyscalculia.io/nl\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -324,7 +324,7 @@
    "script": "<div data-dysc-game=\"symbolic\" data-lang=\"nl\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"symbolic\" lang=\"nl\"></dyscalculia-game>",
    "react": "<Game game=\"symbolic\" lang=\"nl\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/symbolic\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/symbolic\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Gratis getallenspelletjes van <a href=\"https://dyscalculia.io/nl\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -335,7 +335,7 @@
    "script": "<div data-dysc-game=\"compare\" data-lang=\"nl\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"compare\" lang=\"nl\"></dyscalculia-game>",
    "react": "<Game game=\"compare\" lang=\"nl\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/compare\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/compare\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Gratis getallenspelletjes van <a href=\"https://dyscalculia.io/nl\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -346,7 +346,7 @@
    "script": "<div data-dysc-game=\"numberline\" data-lang=\"nl\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"numberline\" lang=\"nl\"></dyscalculia-game>",
    "react": "<Game game=\"numberline\" lang=\"nl\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/numberline\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/numberline\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"488\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Gratis getallenspelletjes van <a href=\"https://dyscalculia.io/nl\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -357,7 +357,7 @@
    "script": "<div data-dysc-game=\"digitspan\" data-lang=\"nl\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"digitspan\" lang=\"nl\"></dyscalculia-game>",
    "react": "<Game game=\"digitspan\" lang=\"nl\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/digitspan\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/nl/digitspan\" title=\"Getallenspel van Dyscalculia.io\" width=\"480\" height=\"565\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Gratis getallenspelletjes van <a href=\"https://dyscalculia.io/nl\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -368,7 +368,7 @@
    "script": "<div data-dysc-game=\"dots\" data-lang=\"pt-br\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"dots\" lang=\"pt-br\"></dyscalculia-game>",
    "react": "<Game game=\"dots\" lang=\"pt-br\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/dots\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/dots\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"578\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jogos de números grátis de <a href=\"https://dyscalculia.io/pt-br\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -379,7 +379,7 @@
    "script": "<div data-dysc-game=\"symbolic\" data-lang=\"pt-br\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"symbolic\" lang=\"pt-br\"></dyscalculia-game>",
    "react": "<Game game=\"symbolic\" lang=\"pt-br\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/symbolic\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/symbolic\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jogos de números grátis de <a href=\"https://dyscalculia.io/pt-br\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -390,7 +390,7 @@
    "script": "<div data-dysc-game=\"compare\" data-lang=\"pt-br\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"compare\" lang=\"pt-br\"></dyscalculia-game>",
    "react": "<Game game=\"compare\" lang=\"pt-br\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/compare\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/compare\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"445\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jogos de números grátis de <a href=\"https://dyscalculia.io/pt-br\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -401,7 +401,7 @@
    "script": "<div data-dysc-game=\"numberline\" data-lang=\"pt-br\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"numberline\" lang=\"pt-br\"></dyscalculia-game>",
    "react": "<Game game=\"numberline\" lang=\"pt-br\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/numberline\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/numberline\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"488\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jogos de números grátis de <a href=\"https://dyscalculia.io/pt-br\" target=\"_blank\">Dyscalculia.io</a>"
   },
   {
@@ -412,7 +412,7 @@
    "script": "<div data-dysc-game=\"digitspan\" data-lang=\"pt-br\"></div>\n<script async src=\"https://dyscalculia.io/embed.js\"></script>",
    "component": "<dyscalculia-game game=\"digitspan\" lang=\"pt-br\"></dyscalculia-game>",
    "react": "<Game game=\"digitspan\" lang=\"pt-br\" />",
-   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/digitspan\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"560\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
+   "iframe": "<iframe src=\"https://dyscalculia.io/embed/pt-br/digitspan\" title=\"Jogo de números do Dyscalculia.io\" width=\"480\" height=\"565\" style=\"border:0;width:100%;max-width:480px\" loading=\"lazy\"></iframe>",
    "credit": "Jogos de números grátis de <a href=\"https://dyscalculia.io/pt-br\" target=\"_blank\">Dyscalculia.io</a>"
   }
  ],

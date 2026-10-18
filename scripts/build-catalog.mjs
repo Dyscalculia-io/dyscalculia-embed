@@ -41,7 +41,7 @@ const items = embedTargets().map((t) => {
     script: `<div data-dysc-game="${t.game}"${lang}></div>\n<script async src="${ORIGIN}/embed.js"></script>`,
     component: `<dyscalculia-game game="${t.game}" lang="${t.locale}"></dyscalculia-game>`,
     react: `<Game game="${t.game}" lang="${t.locale}" />`,
-    iframe: `<iframe src="${url}" title="${EMBED_STRINGS[t.locale].frameTitle}" width="480" height="560" style="border:0;width:100%;max-width:480px" loading="lazy"></iframe>`,
+    iframe: `<iframe src="${url}" title="${EMBED_STRINGS[t.locale].frameTitle}" width="480" height="${EMBED_HEIGHTS[t.game].standard}" style="border:0;width:100%;max-width:480px" loading="lazy"></iframe>`,
     credit: `${EMBED_STRINGS[t.locale].credit} <a href="${homeUrlFor(t.locale)}" target="_blank">Dyscalculia.io</a>`,
   };
 });

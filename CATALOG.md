@@ -117,4 +117,4 @@ Image: https://dyscalculia.io/data/dyscalculia-statistics-chart-9.svg · On the 
 Every row needs the one script tag once per page: `<script async src="https://dyscalculia.io/embed.js"></script>`. The web component form is
 `<dyscalculia-game game="dots" lang="de"></dyscalculia-game>` and the React form is `<Game game="dots" lang="de" />`.
 
-Sizes (all games): `compact` 360 x 560 px, `standard` 480 x 560 px, `wide` 720 x 560 px.
+Sizes (all games): `compact` 360 x 605 px, `standard` 480 x 578 px, `wide` 720 x 538 px.
