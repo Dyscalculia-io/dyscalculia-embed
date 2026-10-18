@@ -50,7 +50,7 @@ Using Vue, Svelte or Angular? Import the package once on the client and use `<dy
 |---|---|---|
 | `data-dysc-game` / `game` | `dots`, `symbolic`, `compare`, `numberline`, `digitspan` | required |
 | `data-lang` / `lang` | `en`, `de`, `es`, `fr`, `nl`, `pt-br` | `en` |
-| `data-size` / `size` | `compact` (360 px wide), `standard` (480 px), `wide` (720 px); the starting height is 560 px and follows the game | `standard` |
+| `data-size` / `size` | `compact` (360 px wide), `standard` (480 px), `wide` (720 px); the starting height is the tallest measured state (605, 578 or 538 px) and follows the game | `standard` |
 
 ## Which `game` do I use?
 

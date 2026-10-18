@@ -10,7 +10,7 @@
  */
 const ORIGIN = "https://dyscalculia.io";
 // [width, height] in px. The height is the measured tallest state (all rounds and the end screen, six languages), as on the site.
-const SIZES = { compact: [360, 560], standard: [480, 560], wide: [720, 560] };
+const SIZES = { compact: [360, 605], standard: [480, 578], wide: [720, 538] };
 const GAMES = ["dots", "symbolic", "compare", "numberline", "digitspan"];
 const LANGS = ["en", "de", "es", "fr", "nl", "pt-br"];
 const CREDIT = {
